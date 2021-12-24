@@ -1,5 +1,6 @@
-
 ## Running locally
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWasral%2Fskynet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWasral%2Fskynet?ref=badge_shield)
+
 ```
 node ./bin/www // Now hit http://localhost:4000/ping
 ```
@@ -21,3 +22,7 @@ Auto-builds from `build.sh` once git commit is pushed
 ## Links
 - [Query Dynamo from Node](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.NodeJs.04.html)
 - [Dockerize Node app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWasral%2Fskynet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWasral%2Fskynet?ref=badge_large)
